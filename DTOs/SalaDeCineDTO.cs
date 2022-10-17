@@ -8,7 +8,7 @@ namespace PeliculasAPI.DTOs
 	public class SalaDeCineDTO
 	{
 		public int Id { get; set; }
-		public string Nombressssssssgdfgdfgd { get; set; }
+		public string Nombres { get; set; }
 		public double Latitud { get; set; }
 		public double Longitud { get; set; }
 	}
